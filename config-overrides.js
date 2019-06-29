@@ -15,8 +15,8 @@ module.exports = function override(config, env) {
 			// 解决长宽比问题
 			postcssAspectRatioMini({}),
 			postcssPxToViewport({
-				viewportWidth: 750, // (Number) The width of the viewport.
-				viewportHeight: 1334, // (Number) The height of the viewport.
+				viewportWidth: 750, 
+				viewportHeight: 1334, 
 				unitPrecision: 3, // (Number) The decimal numbers to allow the REM units to grow to.
 				viewportUnit: 'vw', // (String) Expected units.
 				selectorBlackList: ['.ignore', '.hairlines'], // (Array) The selectors to ignore and leave as px.
