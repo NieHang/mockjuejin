@@ -5,7 +5,7 @@ import { connect } from 'react-redux'
 import { actionCreators } from '../../store'
 
 const Tag = props => {
-	const { path, tag, tagId, setTagId } = props;
+	const { path, tag, setTagId } = props;
 
 	return (
 		<div className="category_popover">
