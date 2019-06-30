@@ -1,0 +1,17 @@
+[
+  {"title": "机器学习", "tagId": "55e2a9f600b04a63ffb7b443"},
+ {"title": "深度学习", "tagId": "583bdb0e61ff4b007ed261a7"},
+ {"title": "Python", "tagId": "559a7227e4b08a686d25744f"},
+ {"title": "掘金翻译计划", "tagId": "56b5a7f3df0eea00544e1993"},
+ {"title": "TensorFlow", "tagId": "582ec88a8ac2470061a8e037"},
+ {"title": "神经网络", "tagId": "58c8246f8ac247072018952f"},
+ {"title": "算法", "tagId": "55cd843d60b203b0519307a9"},
+ {"title": "PyTorch", "tagId": "58ca30ae0ce4630057bc197a"},
+ {"title": "OpenCV", "tagId": "58c00cc9da2f6019f62faa73"},
+ {"title": "NLP", "tagId": "58c66466a22b9d0058b39b06"},
+ {"title": "计算机视觉", "tagId": "584a64e461ff4b0058d25808"},
+ {"title": "Flink", "tagId": "58bcd52044d904006ae9330d"},
+ {"title": "数据可视化", "tagId": "55c1751e00b07a18a04694ed"},
+ {"title": "Keras", "tagId": "58c7b688570c35006d734d62"},
+ {"title": "Spark", "tagId": "573187b2df0eea00633158dd"}
+]
