@@ -1,0 +1,35 @@
+@media screen and (min-width: 1024px) {
+  .home_container {
+    width: 960px;
+    margin: 126px auto 0;
+  }
+
+  .tag_nav {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .tag_nav .nav_item {
+    height: 25px;
+    padding: 0 10px;
+    margin-top: 10px;
+    font-size: 12px;
+    background-color: #fff;
+    border-radius: 10px;
+    text-align: center;
+    margin-right: 15px;
+  }
+
+  .tag_nav .nav_item:hover {
+    color: #007fff;
+  }
+
+  .tag_nav .nav_item.active {
+    color: #fff;
+    background-color: #007fff;
+  }
+
+  .tag_nav .nav_item > .iconxiajiantou {
+    font-size: 10px;
+  }
+}
