@@ -9,12 +9,11 @@ import Tag from '../Tag';
 const List = props => {
 	const { tab, tabId, onChange, getTagData } = props;
 
-	const handleMouseOver = async (tab, tabId) => {
+	const handleMouseOver = (tab, tabId) => {
 		onChange(tabId);
 		// 获取当前tab的tag
 		if (tab != null) {
 			getTagData(tab);
-			localStorage.setItem(tab, `/mock/tab/tab${tab}.json`);
 		}
 	};
 
